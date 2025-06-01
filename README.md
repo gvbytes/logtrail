@@ -1,7 +1,7 @@
-# 📜 Basic Log Analyzer (`log_analyzer.py`)
+# LogTrail
 
-## 💡 What is it?
-This tool acts as a forensic log parser. It reads web server logs, scans each line for known cyber-attack patterns, and generates a structured security audit report.
+## What it does
+LogTrail reads web server access logs, highlights suspicious request patterns, and summarizes useful incident-review signals such as high request volume, 404 bursts, SQL injection attempts, and directory traversal.
 
 ---
 
